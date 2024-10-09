@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "provider",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/assets/assets"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
